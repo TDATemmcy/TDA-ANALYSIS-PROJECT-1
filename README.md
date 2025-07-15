@@ -19,7 +19,8 @@
 ![Screenshot 2025-07-06 102650](https://github.com/user-attachments/assets/aa000863-6ec7-424f-8a77-bf96e505ef41)
 ![Screenshot 2025-07-06 102611](https://github.com/user-attachments/assets/ce2b6df8-dc56-4e70-8fbc-163a88161395)
 ##  RECOMMENDATION
-* Leverage on gender based distribution accross the regions.
+* Leverage on gender based distribution accross the region.
+* Salary structure review for employees.
 
 
 
